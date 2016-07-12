@@ -45,6 +45,8 @@ a {
 }
 .col-lg-4 {
 	float: left !important ;
+	padding-right: 50px;
+    padding-left: 5px;
 }
 .container {
 	float:center;
