@@ -44,7 +44,7 @@ a {
     transition: all .35s;
 }
 .col-lg-4 {
-	float: left;
+	float: left !important ;
 }
 .container {
 	float:center;
